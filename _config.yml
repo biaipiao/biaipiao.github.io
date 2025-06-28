@@ -74,7 +74,8 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  QQ               : "3897432949" # URL
+  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
