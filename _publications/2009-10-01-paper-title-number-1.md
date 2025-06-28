@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
+title: "文体部"
+collection: 部门
+category: 1.负责指导和协调全校学生文化体育活动，营造良好的校园氛围 2.配合学校有关部门组织各类大型文艺活动，联欢活动 3.搞好各种活动的会场布置，会场秩序维护等其他工作
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
