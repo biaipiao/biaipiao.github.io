@@ -28,4 +28,5 @@ Communist Youth League Yuechi County Luodu Middle School Committee是学生自�
 # QQ与抖音账号
 
 QQ：3897432949
+
 抖音账号：tuant1958
