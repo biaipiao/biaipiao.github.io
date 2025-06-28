@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "罗渡CYL的网站"#标题
+title                    : "罗渡中学团委会的网站"#标题
 title_separator          : "-"
 name                     : &name "罗渡中学团委会"
 description              : &description "始建于1958，是先进青年的群团组织"
@@ -22,7 +22,7 @@ repository               : "biaipiao/biaipiao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://s21.ax1x.com/2025/06/29/pVn3xdP.png"
+  avatar           : "https://s21.ax1x.com/2025/06/29/pVn3zIf.jpg"
   name             : "罗渡中学团委会"
   pronouns         : "he" #example: "she/her"  
   bio              : "始建于1958，是先进青年的群团组织"
