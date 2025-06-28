@@ -22,7 +22,7 @@ repository               : "biaipiao/biaipiao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s21.ax1x.com/2025/06/29/pVn3xdP.png"
   name             : "罗渡中学团委会"
   pronouns         : "he" #example: "she/her"  
   bio              : "始建于1958，是先进青年的群团组织"
